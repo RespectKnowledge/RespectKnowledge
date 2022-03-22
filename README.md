@@ -15,7 +15,10 @@ Position: Got 4th position in Placental Vessel Segmentation using ensembles of d
 Position: Got 5th position in Foot Ulcer Segmentation using multiple deep learning segmentation methods
 
 - Challenge: MICCAI 2021 FLARE Challenge: Fast and Low GPU memory Abdominal oRgan sEgmentation
-Position: Got 7th position in Fast and Low GPU memory Abdominal oRgan sEgmentation Efficient Residual-UNet deep learning model
+  
+  Position: Got 7th position in Fast and Low GPU memory Abdominal oRgan sEgmentation Efficient Residual-UNet deep learning model
+ 
+ https://flare.grand-challenge.org/Awards/
 
 - Challenge: HEad and neCK TumOR (HECKTOR)segmentation and outcome prediction in PET/CT images 2021
 Position: Got 14th position in HECKTOR using Efficient 3D Inception-Residual UNet deep learning model
