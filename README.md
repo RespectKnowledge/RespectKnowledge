@@ -15,6 +15,7 @@ Position: Got 4th position in Placental Vessel Segmentation using ensembles of d
   
   Position: Got 5th position in Foot Ulcer Segmentation using multiple deep learning segmentation methods
   
+  
   https://dfu-2021.grand-challenge.org/evaluation/challenge-testing-stage-10th-july-9th-july/leaderboard/
 
 - Challenge: MICCAI 2021 FLARE Challenge: Fast and Low GPU memory Abdominal oRgan sEgmentation
@@ -27,6 +28,7 @@ Position: Got 4th position in Placental Vessel Segmentation using ensembles of d
   
   Position: Got 14th position in HECKTOR using Efficient 3D Inception-Residual UNet deep learning model
   
+  https://www.aicrowd.com/challenges/miccai-2021-hecktor/leaderboards?challenge_leaderboard_extra_id=667&challenge_round_id=879
 
 - Challenge: Multi-Disease, Multi-View & Multi-Center Right Ventricular Segmentation in Cardiac MRI 
   
