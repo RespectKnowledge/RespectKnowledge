@@ -5,7 +5,8 @@
 - 💬 Ask me about 
 - 
 - Challenge: Diabetic Foot Ulcer Challenge 2021
-Position: Got 4th position in detection of diabetic Foot Ulcer challenge using multimodal deep learning transformer 
+  
+  Position: Got 4th position in detection of diabetic Foot Ulcer challenge using multimodal deep learning transformer 
 
 - Challenge: FetReg 2021: Placental Vessel Segmentation and Registration in Fetoscopy
 Position: Got 4th position in Placental Vessel Segmentation using ensembles of deep learning models with test time augmentation (TTA) approach
