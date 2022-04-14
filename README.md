@@ -1,9 +1,8 @@
 
 - 🔭 I’m currently working on Deep Learning and machine learning projects
 - 🌱 I’m currently learning semi or unsupervised methods for segmentation, classification
-- 👯 I’m looking to collaborate on in research and projects for industery.
-- 💬 Ask me about 
-- 
+- 👯 I’m looking to collaborate on research and projects for industery.
+- I have participated in various competition that was held in MICCAI2021. The detail is given below.
 - Challenge: Diabetic Foot Ulcer Challenge 2021
 - Challenge: FetReg 2021: Placental Vessel Segmentation and Registration in Fetoscopy
 - Challenge: Foot Ulcer Segmentation Challenge 2021
@@ -13,5 +12,3 @@
 - Challenge: Fetal Brain Tissue Annotation and Segmentation Challenge (Feta2021)
 - Challenge: Chest XR COVID-19 detection (Grand challenge website)
 - 📫 How to reach me: engr.qayyum@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
