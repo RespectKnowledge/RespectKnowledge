@@ -3,12 +3,14 @@
 - 🌱 I’m currently learning semi or unsupervised methods for segmentation, classification
 - 👯 I’m looking to collaborate on research and projects for industery.
 - I have participated in various competition that was held in MICCAI2021. The detail is given below.
-- Challenge: Diabetic Foot Ulcer Challenge 2021
-- Challenge: FetReg 2021: Placental Vessel Segmentation and Registration in Fetoscopy
-- Challenge: Foot Ulcer Segmentation Challenge 2021
-- Challenge: MICCAI 2021 FLARE Challenge: Fast and Low GPU memory Abdominal oRgan sEgmentation
-- Challenge: HEad and neCK TumOR (HECKTOR)segmentation and outcome prediction in PET/CT images 2021
-- Challenge: Multi-Disease, Multi-View & Multi-Center Right Ventricular Segmentation in Cardiac MRI 
-- Challenge: Fetal Brain Tissue Annotation and Segmentation Challenge (Feta2021)
-- Challenge: Chest XR COVID-19 detection (Grand challenge website)
+- Challenge: Diabetic Foot Ulcer Challenge 2021 (4th position)
+- Challenge: FetReg 2021: Placental Vessel Segmentation and Registration in Fetoscopy(4th position)
+- Challenge: Foot Ulcer Segmentation Challenge 2021(5th position)
+- Challenge: MICCAI 2021 FLARE Challenge: Fast and Low GPU memory Abdominal oRgan sEgmentation(7th position)
+- Challenge: HEad and neCK TumOR (HECKTOR)segmentation and outcome prediction in PET/CT images 2021(14th position)
+- Challenge: Multi-Disease, Multi-View & Multi-Center Right Ventricular Segmentation in Cardiac MRI(10th position)
+- Challenge: Fetal Brain Tissue Annotation and Segmentation Challenge (Feta2021)(13th position)
+- Challenge: Chest XR COVID-19 detection (Grand challenge website)(6th position)
+- Challenge:AIROGS: Artificial Intelligence for RObust Glaucoma Screening Challenge(13th position)
+- Challenge: KNIGHT Challenge (Kidney clinical Notes and Imaging to Guide and Help personalize Treatment and biomarkers discovery)(5th position)
 - 📫 How to reach me: engr.qayyum@gmail.com
