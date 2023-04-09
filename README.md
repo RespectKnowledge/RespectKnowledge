@@ -12,6 +12,7 @@
 - Ischemic Stroke Lesion Segmentation Challenge - ISLES'22(10th position)
 - Kidney PArsing Challenge 2022(Multi-Structure Segmentation for Renal Cancer Treatment) (11th position)
 - Pulmonary Artery Segmentation Challenge 2022 (16th position)
+- 
 ----------------------------------------------MICCAI 2021 challenges contribution---------------------------------------------------------------------
 - Challenge: Diabetic Foot Ulcer Challenge 2021 (4th position)
 - Challenge: FetReg 2021: Placental Vessel Segmentation and Registration in Fetoscopy(4th position)
