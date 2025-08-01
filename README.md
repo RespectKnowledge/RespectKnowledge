@@ -20,8 +20,10 @@
 | 8th         | **MARIO** - AMD Progression in OCT                                                        | Efficient DL Models for Age-Related Macular Degeneration Tracking                                      |
 | 9th         | **COSAS** - Cross-Organ and Scanner Adenocarcinoma Segmentation                           | Swin-UNet + Parallel Cross-Attention                                                                   |
 | 9th         | **TopCoW** - Anatomical Segmentation of the Circle of Willis                              | Pretrained 3D Segmentation Models                                                                      |
-| 12th        | **AortaSeg24** - Aortic Branch and Zone Segmentation                                      | SSL-Based Aortic Segmentation with Student-Teacher Architectures                                       |
+| 12th        | **AortaSeg24** - Aortic Branch and Zone Segmentation                                      | SSL-Based Aortic Segmentation with Student-Teacher Architectures   
+
 🧠 IEEE ISBI 2023 Challenge Contributions
+
 | 🏅 Position | Challenge Name                                        |
 | ----------- | ----------------------------------------------------- |
 | 🥇 1st      | CuRIOUS 2022 - Image Registration & Segmentation      |
