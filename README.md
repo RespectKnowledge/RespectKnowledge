@@ -8,7 +8,7 @@
 | 🏅 Position | Challenge Name                                                                            | Title/Method                                                                                           |
 | ----------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | 🥇 1st      | **AIMS-TBI** - Automated Identification of Moderate-Severe Traumatic Brain Injury Lesions | Leveraging Student-Teacher Networks in Self-Supervised Learning for Enhanced TBI Severity Segmentation |
-| 🥇 1st      | **ISLES** - Ischemic Stroke Lesion Segmentation                                           | A Two-Stage SSL Approach for Ischemic Stroke Lesion Segmentation                                       |
+| 4th      | **ISLES** - Ischemic Stroke Lesion Segmentation                                           | A Two-Stage SSL Approach for Ischemic Stroke Lesion Segmentation                                       |
 | 🥈 2nd      | **UWF4DR** - Ultra-Widefield Fundus Imaging for Diabetic Retinopathy                      | Efficient Deep Learning for Ultra-Widefield Fundus Imaging                                             |
 | 🥈 2nd      | **FETA** - Fetal Tissue Annotation                                                        | Pseudo Labeling + 3D Deep Learning Models                                                              |
 | 🥉 3rd      | **MBH-Seg** - Multi-class Brain Hemorrhage Segmentation                                   | Efficient SSL-Based Deep Learning for Hemorrhage Segmentation                                          |
