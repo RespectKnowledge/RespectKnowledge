@@ -3,6 +3,37 @@
 - 🌱 I’m currently learning semi or unsupervised methods for segmentation, classification
 - 👯 I’m looking to collaborate on research and projects for industery.
 
+------------------------------ MICCAI 2024 challenges contribution ------------------------------------------------
+Challenge: Automated Identification of Moderate-Severe Traumatic Brain Injury Lesions (AIMS-TBI), 2024.
+Position: Got 1st position using Leveraging Student-Teacher Networks in Self-Supervised Learning for Enhanced TBI Severity Segmentation
+Challenge: Ischemic Stroke Lesion Segmentation Challenge (ISLES), 2024.
+Position: Got 1st   position using a two-stage approach for ischemic stroke lesion segmentation that utilizes self-supervised learning (SSL) to address the scarcity of annotated medical data
+Challenge: Ultra-Widefield Fundus Imaging for Diabetic Retinopathy (UWF4DR), 2024.
+Position: Got 2nd position using Efficient Deep Learning Models for Ultra-Widefield Fundus Imaging for Diabetic Retinopathy
+Challenge: Fetal Tissue Annotation Challenge (FETA), 2024.
+Position: Got 2nd position using pseudo labelling for Fetal Tissue Annotation segmentation using 3D deep learning models
+Challenge: Multi-class Brain Hemorrhage Segmentation in Non-contrast Computed Tomography under Limited Annotations (MBH-Seg), 2024.
+Position: Got 3rd position using Efficient SSL based Deep Learning Models for Multi-class Brain Hemorrhage Segmentation
+Challenge: Towards real world medical image analysis (CARE), 2024.
+Position: Got 3rd position using A Two-Stage Self-Supervised Learning Framework for Automated Whole Heart Segmentation in CT and MRI: Addressing Challenges in Cardiac Imaging
+Challenge: Calibration and Uncertainty for multiRater Volume Assessment in multiorgan Segmentation (CURVAS), 2024.
+Position: Got 4th position using xSLTM-UNet deep learning model
+Challenge: Triphasic-aided Liver Lesion Segmentation in Non-contrast CT (TriALS24), 2024.
+Position: Got 4th position using Triphasic-Aided Liver Lesion Segmentation in Non-Contrast CT based on Self-Supervised Student-Teacher Model
+Challenge: Head and Neck Tumor Segmentation for MRI-Guided Applications Challenge (HNTSMRG), 2024.
+Position: Got 5th position using Assessing Self-Supervised xLSTM-UNet Architectures for Head and Neck Tumor Segmentation in MR-Guided Applications
+Challenge: Multi-class Bi-atrial Segmentation from 3D Contrast-Enhanced Magnetic Resonance Imaging (MBAS), 2024.
+Position: Got 5th  position using Effective approach based on student-teacher self-supervised deep learning for Multi-class Bi-Atrial Segmentation Challenge
+Challenge: Monitoring Age-related macular degeneration Progression in Optical coherence tomography (MARIO), 2024
+Position: Got 8th position using Efficient Deep Learning models for Evaluating the Progression of Age-Related Macular Degeneration through Optical Coherence Tomography
+Challenge: Cross-Organ and Cross-Scanner Adenocarcinoma Segmentation Challenge (COSAS), 2024.
+Position: Got 9th position using Adenocarcinoma Segmentation Using Pre-trained Swin-UNet with Parallel Cross-Attention for Multi-Domain Imaging
+Challenge: Multi-Class Segmentation of Aortic Branches and Zones on Computed Tomography Angiography (AortaSeg24), 2024
+Position: Got 12th position using Enhanced Aortic Segmentation via Self-Supervised Student-Teacher Architectures in Multi-Class Scenarios
+Challenge: Topology-Aware Anatomical Segmentation of the Circle of Willis for CTA and MRA (TopCoW), 2024
+Position: Got 9th position using pre-trained 3D segmentation models.
+
+
 ------------------------------ IEEE - ISBI 2023 2023 challenges contribution ------------------------------------------------
 - Edited Magnetic Resonance Spectroscopy Reconstruction Challenge (3rd position)
 - The Image Analysis for CTA Endovascular Stroke Therapy (IACTA-EST) Data Challenge (1st and 3rd position)
