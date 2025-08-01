@@ -2,6 +2,25 @@
 - 🔭 I’m currently working on Deep Learning and machine learning projects
 - 🌱 I’m currently learning semi or unsupervised methods for segmentation, classification
 - 👯 I’m looking to collaborate on research and projects for industery.
+  👋 About Me
+🔭 I’m currently working on Deep Learning and Machine Learning projects in medical imaging.
+
+🌱 I’m actively learning semi-supervised and unsupervised techniques for medical image segmentation and classification.
+
+👯 I’m open to collaborations on academic research and industrial projects, particularly in medical AI.
+
+🏆 MICCAI 2024 Challenge Contributions
+🏅 Position	Challenge Name	Title/Method
+🥇 1st	AIMS-TBI - Automated Identification of Moderate-Severe Traumatic Brain Injury Lesions	Leveraging Student-Teacher Networks in Self-Supervised Learning for Enhanced TBI Severity Segmentation
+🥇 1st	ISLES - Ischemic Stroke Lesion Segmentation	A Two-Stage SSL Approach for Ischemic Stroke Lesion Segmentation
+🥈 2nd	UWF4DR - Ultra-Widefield Fundus Imaging for Diabetic Retinopathy	Efficient Deep Learning for Ultra-Widefield Fundus Imaging
+🥈 2nd	FETA - Fetal Tissue Annotation	Pseudo Labeling + 3D Deep Learning Models
+🥉 3rd	MBH-Seg - Multi-class Brain Hemorrhage Segmentation	Efficient SSL-Based Deep Learning for Hemorrhage Segmentation
+🥉 3rd	CARE - Real World Medical Image Analysis	Two-Stage SSL for Whole Heart Segmentation in CT and MRI
+4th	CURVAS - Calibration and Uncertainty for Multi-Rater Volume Assessment	xSLTM-UNet Deep Learning Model
+4th	TriALS24 - Triphasic-Aided Liver Lesion Segmentation	SSL-Based Student-Teacher Architecture for Non-Contrast CT
+5th	HNTSMRG - Head and Neck Tumor Segmentation in MR	Self-Supervised xLSTM-UNet for Tumor Segmentation
+5th	MBAS - Multi-class Bi-Atrial Segmentation	Student-Teacher SSL for 3D Bi-Atrial Segmentation
 
 ------------------------------ MICCAI 2024 challenges contribution ------------------------------------------------
 Challenge: Automated Identification of Moderate-Severe Traumatic Brain Injury Lesions (AIMS-TBI), 2024.
