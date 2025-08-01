@@ -35,6 +35,21 @@
 | 11th        | Kidney Parsing Challenge - Renal Cancer Treatment     |
 | 16th        | Pulmonary Artery Segmentation Challenge               |
 
+🔹 MICCAI 2022 Challenge Contributions
+
+| 🏅 Position | Challenge Name                                                          | Method Summary                       |
+| ----------- | ----------------------------------------------------------------------- | ------------------------------------ |
+| 🥇 1st      | **CuRIOUS** – Correction of Brain Shift with Intra-Operative Ultrasound | Self-Supervised Two-Stage 3D ResUNet |
+| 4th         | CMRxMotion Challenge                                                    | –                                    |
+| 4th         | cSeg-2022 – Infant Cerebellum MRI Segmentation                          | –                                    |
+| 6th         | **ATM’22** – Multi-site, Multi-Domain Airway Tree Modeling              | 3D Deep Learning Models              |
+| 9th         | NCCT – Intracranial Hemorrhage Segmentation                             | –                                    |
+| 10th        | ISLES'22 – Ischemic Stroke Lesion Segmentation                          | –                                    |
+| 11th        | Kidney Parsing Challenge – Renal Cancer Treatment                       | –                                    |
+| 16th        | Pulmonary Artery Segmentation Challenge                                 | –                                    |
+
+
+
 🧠 MICCAI 2021 Challenge Contributions
 
 | 🏅 Position | Challenge Name                                                         |
