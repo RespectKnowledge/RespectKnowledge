@@ -1,7 +1,13 @@
 
-- 🔭 I’m currently working on Deep Learning and machine learning projects
-- 🌱 I’m currently learning semi or unsupervised methods for segmentation, classification
-- 👯 I’m looking to collaborate on research and projects for industery.
+🔬 I’m currently working at the intersection of Deep Learning and Medical Imaging, developing advanced models for segmentation, classification, and beyond.
+
+🧠 My focus includes self-supervised, semi-supervised, and generative learning techniques to tackle real-world challenges where annotated data is scarce or noisy.
+
+🏗️ I’m also exploring the design and training of foundation models for scalable and generalizable medical image understanding across modalities and tasks.
+
+🤝 I'm keen to collaborate on innovative research and translational projects, particularly those with industry relevance and clinical impact.
+
+
 
   🏆 MICCAI 2024 Challenge Contributions
   
