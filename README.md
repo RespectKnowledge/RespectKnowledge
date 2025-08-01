@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning semi or unsupervised methods for segmentation, classification
 - 👯 I’m looking to collaborate on research and projects for industery.
 
-
------------------------------- 🏆 MICCAI 2024 Challenge Contributions------------------------------------------------
-
+  🏆 MICCAI 2024 Challenge Contributions
+  
 | 🏅 Position | Challenge Name                                                                            | Title/Method                                                                                           |
 | ----------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | 🥇 1st      | **AIMS-TBI** - Automated Identification of Moderate-Severe Traumatic Brain Injury Lesions | Leveraging Student-Teacher Networks in Self-Supervised Learning for Enhanced TBI Severity Segmentation |
@@ -22,36 +21,32 @@
 | 9th         | **COSAS** - Cross-Organ and Scanner Adenocarcinoma Segmentation                           | Swin-UNet + Parallel Cross-Attention                                                                   |
 | 9th         | **TopCoW** - Anatomical Segmentation of the Circle of Willis                              | Pretrained 3D Segmentation Models                                                                      |
 | 12th        | **AortaSeg24** - Aortic Branch and Zone Segmentation                                      | SSL-Based Aortic Segmentation with Student-Teacher Architectures                                       |
+🧠 IEEE ISBI 2023 Challenge Contributions
+| 🏅 Position | Challenge Name                                        |
+| ----------- | ----------------------------------------------------- |
+| 🥇 1st      | CuRIOUS 2022 - Image Registration & Segmentation      |
+| 4th         | CMRxMotion Challenge                                  |
+| 4th         | cSeg-2022 - Infant Cerebellum MRI Segmentation        |
+| 6th         | ATM’22 - Multi-Site Multi-Domain Airway Tree Modeling |
+| 9th         | NCCT - Intracranial Hemorrhage Segmentation           |
+| 10th        | ISLES'22 - Ischemic Stroke Lesion Segmentation        |
+| 11th        | Kidney Parsing Challenge - Renal Cancer Treatment     |
+| 16th        | Pulmonary Artery Segmentation Challenge               |
 
+🧠 MICCAI 2021 Challenge Contributions
 
+| 🏅 Position | Challenge Name                                                         |
+| ----------- | ---------------------------------------------------------------------- |
+| 4th         | Diabetic Foot Ulcer Challenge                                          |
+| 4th         | FetReg - Placental Vessel Segmentation in Fetoscopy                    |
+| 5th         | Foot Ulcer Segmentation Challenge                                      |
+| 7th         | FLARE - Fast and Low GPU Abdominal Organ Segmentation                  |
+| 10th        | Right Ventricular Segmentation in Cardiac MRI                          |
+| 13th        | Feta2021 - Fetal Brain Tissue Segmentation                             |
+| 6th         | Chest XR COVID-19 Detection (Grand Challenge)                          |
+| 13th        | AIROGS - Robust Glaucoma Screening                                     |
+| 5th         | KNIGHT Challenge - Kidney Clinical Notes & Imaging Biomarker Discovery |
+| 14th        | HECKTOR - Head and Neck Tumor PET/CT Segmentation                      |
 
------------------------------- IEEE - ISBI 2023 2023 challenges contribution ------------------------------------------------
-- Edited Magnetic Resonance Spectroscopy Reconstruction Challenge (3rd position)
-- The Image Analysis for CTA Endovascular Stroke Therapy (IACTA-EST) Data Challenge (1st and 3rd position)
-- SMILE-UHURA : Small Vessel Segmentation at MesoscopIc ScaLEfrom Ultra-High ResolUtion 7T Magnetic Resonance Angiograms (3rd position)
-- SHINY-ICARUS: Segmentation over tHree dImensional rotational aNgiographY of Internal Carotid ArteRy with aneUrySm (5th position)
-
-
------------------------------- MICCAI 2022 challenges contribution ------------------------------------------------
-- CuRIOUS 2022 Segmentation Challenge (1st Position)
-- CMRxMotion challenge(4th position)
-- Multi-domain Cross-time-point Infant Cerebellum MRI Segmentation 2022 (cSeg-2022)(4th position)
-- Multi-site, Multi-Domain Airway Tree Modeling (ATM’22) (6th position)
-- The 2022 Intracranial Hemorrhage Segmentation Challenge on Non-Contrast head CT (NCCT) (9th position)
-- Ischemic Stroke Lesion Segmentation Challenge - ISLES'22(10th position)
-- Kidney PArsing Challenge 2022(Multi-Structure Segmentation for Renal Cancer Treatment) (11th position)
-- Pulmonary Artery Segmentation Challenge 2022 (16th position)
-- 
-----------------------------------------------MICCAI 2021 challenges contribution---------------------------------------------------------------------
-- Challenge: Diabetic Foot Ulcer Challenge 2021 (4th position)
-- Challenge: FetReg 2021: Placental Vessel Segmentation and Registration in Fetoscopy(4th position)
-- Challenge: Foot Ulcer Segmentation Challenge 2021(5th position)
-- Challenge: MICCAI 2021 FLARE Challenge: Fast and Low GPU memory Abdominal oRgan sEgmentation(7th position)
-- Challenge: HEad and neCK TumOR (HECKTOR)segmentation and outcome prediction in PET/CT images 2021(14th position)
-- Challenge: Multi-Disease, Multi-View & Multi-Center Right Ventricular Segmentation in Cardiac MRI(10th position)
-- Challenge: Fetal Brain Tissue Annotation and Segmentation Challenge (Feta2021)(13th position)
-- Challenge: Chest XR COVID-19 detection (Grand challenge website)(6th position)
-- Challenge:AIROGS: Artificial Intelligence for RObust Glaucoma Screening Challenge(13th position)
-- Challenge: KNIGHT Challenge (Kidney clinical Notes and Imaging to Guide and Help personalize Treatment and biomarkers discovery)(5th position)
 
 - 📫 How to reach me: engr.qayyum@gmail.com
